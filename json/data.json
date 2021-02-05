@@ -1,0 +1,14 @@
+{
+    "details":{
+        "name" : "Chennu",
+        "mobile" : "864758732"
+    },
+    "multipleData" : [{
+        "name" : "Chennu",
+        "mobile" : "864758732"
+    },{
+        "name" : "Vijay",
+        "mobile" : "876432872"
+    }
+    ]
+}
